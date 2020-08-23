@@ -1,0 +1,15 @@
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\bin\Release\netcoreapp3.1\WFOVFix.exe
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\bin\Release\netcoreapp3.1\WFOVFix.deps.json
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\bin\Release\netcoreapp3.1\WFOVFix.runtimeconfig.json
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\bin\Release\netcoreapp3.1\WFOVFix.runtimeconfig.dev.json
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\bin\Release\netcoreapp3.1\WFOVFix.dll
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\bin\Release\netcoreapp3.1\WFOVFix.pdb
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\obj\Release\netcoreapp3.1\WFOVFix.csprojAssemblyReference.cache
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\obj\Release\netcoreapp3.1\WFOVFix.AssemblyInfoInputs.cache
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\obj\Release\netcoreapp3.1\WFOVFix.AssemblyInfo.cs
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\obj\Release\netcoreapp3.1\WFOVFix.csproj.CoreCompileInputs.cache
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\obj\Release\netcoreapp3.1\WFOVFix.csproj.CopyComplete
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\obj\Release\netcoreapp3.1\WFOVFix.dll
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\obj\Release\netcoreapp3.1\WFOVFix.pdb
+C:\Users\bnp\source\repos\WFOVFix\WFOVFix\obj\Release\netcoreapp3.1\WFOVFix.genruntimeconfig.cache
